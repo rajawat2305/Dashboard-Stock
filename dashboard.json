@@ -1,0 +1,18 @@
+{
+  "Table": [
+    {
+      "id": "2",
+      "stock": "reliance",
+      "quantity": "5",
+      "value": "3000",
+      "cash": "7000"
+    },
+    {
+      "id": "3",
+      "stock": "jio",
+      "quantity": "2",
+      "value": "300",
+      "cash": "79"
+    }
+  ]
+}
